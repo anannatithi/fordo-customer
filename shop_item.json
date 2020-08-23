@@ -1,0 +1,76 @@
+{
+    "shop_name": "abc",
+    "shop_id": 1,
+    "offer": "offer 10 % discount",
+    "shop_image": "",
+    "store_category": [
+        {
+            "category_name": "Fish",
+            "cat_id": 1,
+            "item": [
+                {
+                    "name": "rui",
+                    "id": 1,
+                    "unit_price": 120,
+                    "unit": "kg",
+                    "image": "",
+                    "sub_item": [
+                        {
+                            "name": "choto rui",
+                            "id": 1,
+                            "unit_price": 120,
+                            "unit": "kg",
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "ilish",
+                    "id": 1,
+                    "unit_price": 120,
+                    "unit": "kg",
+                    "image": "",
+                    "sub_item": []
+                },
+                {
+                    "name": "Katol",
+                    "id": 1,
+                    "unit_price": 120,
+                    "unit": "kg",
+                    "image": "",
+                    "sub_item": []
+                }
+            ]
+        },
+        {
+            "category_name": "Rice",
+            "cat_id": 1,
+            "item": [
+                {
+                    "name": "rui",
+                    "id": 1,
+                    "unit_price": 120,
+                    "unit": "kg",
+                    "image": "",
+                    "sub_item": []
+                },
+                {
+                    "name": "ilish",
+                    "id": 1,
+                    "unit_price": 120,
+                    "unit": "kg",
+                    "image": "",
+                    "sub_item": []
+                },
+                {
+                    "name": "Katol",
+                    "id": 1,
+                    "unit_price": 120,
+                    "unit": "kg",
+                    "image": "",
+                    "sub_item": []
+                }
+            ]
+        }
+    ]
+}
