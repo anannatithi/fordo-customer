@@ -5,18 +5,18 @@
     "shop_image": "",
     "store_category": [
         {
-            "category_name": "Fish",
+            "category_name": "মাছ",
             "cat_id": 1,
             "item": [
                 {
-                    "name": "rui",
+                    "name": "রুই মাছ",
                     "id": 1,
                     "unit_price": 120,
                     "unit": "kg",
                     "image": "",
                     "sub_item": [
                         {
-                            "name": "choto rui",
+                            "name": "ছোট রুই",
                             "id": 1,
                             "unit_price": 120,
                             "unit": "kg",
@@ -26,7 +26,7 @@
                 },
                 {
                     "name": "ilish",
-                    "id": 1,
+                    "id": 2,
                     "unit_price": 120,
                     "unit": "kg",
                     "image": "",
@@ -34,7 +34,7 @@
                 },
                 {
                     "name": "Katol",
-                    "id": 1,
+                    "id": 3,
                     "unit_price": 120,
                     "unit": "kg",
                     "image": "",
@@ -43,28 +43,28 @@
             ]
         },
         {
-            "category_name": "Rice",
-            "cat_id": 1,
+            "category_name": "চাল",
+            "cat_id": 2,
             "item": [
                 {
-                    "name": "rui",
-                    "id": 1,
+                    "name": "িনিগুড়া চাল",
+                    "id": 4,
                     "unit_price": 120,
                     "unit": "kg",
                     "image": "",
                     "sub_item": []
                 },
                 {
-                    "name": "ilish",
-                    "id": 1,
+                    "name": "বাসমতী চাল",
+                    "id":5,
                     "unit_price": 120,
                     "unit": "kg",
                     "image": "",
                     "sub_item": []
                 },
                 {
-                    "name": "Katol",
-                    "id": 1,
+                    "name": "মিনিকেট চাল",
+                    "id": 6,
                     "unit_price": 120,
                     "unit": "kg",
                     "image": "",
