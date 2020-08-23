@@ -1,5 +1,5 @@
 {
-    "shop_name": "abc",
+    "shop_name": "আবুল খায়ের স্টোর",
     "shop_id": 1,
     "offer": "offer 10 % discount",
     "shop_image": "",
@@ -25,7 +25,7 @@
                     ]
                 },
                 {
-                    "name": "ilish",
+                    "name": "ইলিশ মাছ",
                     "id": 2,
                     "unit_price": 120,
                     "unit": "kg",
@@ -33,7 +33,7 @@
                     "sub_item": []
                 },
                 {
-                    "name": "Katol",
+                    "name": "কাতল মাছ",
                     "id": 3,
                     "unit_price": 120,
                     "unit": "kg",
